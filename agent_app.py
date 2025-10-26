@@ -56,8 +56,6 @@ def get_agent_executor():
     # --- 4. Splitter e Embeddings (HuggingFace) ---
     # Questa parte è pesante e beneficia enormemente della cache
 
-    st.info("Caricamento modello di embedding (richiede qualche istante la prima volta)...")
-
     text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=50)
     docs = text_splitter.split_documents(documents)
 
@@ -68,9 +66,6 @@ def get_agent_executor():
     # Crea il vector store
     vectordb = Chroma.from_documents(documents=docs, embedding=embeddings)
     retriever = vectordb.as_retriever(search_kwargs={"k": 4})
-
-    st.success("Modello e regole caricati con successo!")
-
 
     # --- 5. Definizione del Tool ---
     # Definiamo il tool qui dentro, così ha accesso al 'retriever'
