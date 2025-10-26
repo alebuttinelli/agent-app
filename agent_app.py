@@ -40,7 +40,7 @@ def get_agent_executor():
     llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",
                                  google_api_key=GOOGLE_API_KEY,
                                  temperature=0.1,
-                                 max_output_tokens=2000,
+                                 max_output_tokens=4000,
                                  convert_system_message_to_human=True)
 
     # --- 3. Caricamento Documenti (Modo Streamlit) ---
