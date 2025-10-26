@@ -1,0 +1,145 @@
+### Regola 1
+Regola: Le frasi non devono superare le 20-25 parole. Dividere la frase che supera questo limite in più frasi divise da punto o punto e virgola. 
+Esempio complesso: Il contratto, al fine di produrre i suoi effetti giuridici, deve essere firmato da entrambe le parti contraenti, in caso contrario esso non sarà valido e non produrrà alcun effetto giuridico.
+Esempio semplificato: Il contratto deve essere firmato da entrambe le parti. La mancata firma comporta la nullità dell’accordo.
+### Regola 2
+Regola: Nei periodi la frase principale precede le frasi subordinate. 
+Esempio complesso: Poiché l’istanza non è stata presentata entro i termini previsti, l’Amministrazione ha disposto l’archiviazione del procedimento.
+Esempio semplificato: L’Amministrazione ha disposto l’archiviazione del procedimento, poiché l’istanza non è stata presentata entro i termini previsti.
+### Regola 3
+Regola: Preferire uno stile paratattico (fatto di coordinate) ad uno stile ipotattico (fatto di numerose subordinate).
+Esempio complesso: Qualora il dirigente, che è responsabile del procedimento, rilevi che l’istanza presentata dall’interessato sia incompleta o carente sotto il profilo formale, provvederà a richiederne l’integrazione, affinché il procedimento possa proseguire regolarmente.
+Esempio semplificato: Il dirigente è responsabile del procedimento. Se rileva che l’istanza dell’interessato è incompleta o carente sotto il profilo formale, richiede l’integrazione della documentazione. In questo modo, il procedimento può proseguire regolarmente.
+### Regola 4
+Regola: Adottare preferibilmente l’ordine delle parole Soggetto-Verbo-Oggetto Diretto-Oggetto Indiretto. 
+Esempio complesso: L'amministrazione invia agli utenti registrati la comunicazione.
+Esempio semplificato: L'amministrazione invia la comunicazione agli utenti registrati. 
+### Regola 5
+Regola: Preferire le frasi affermative a quelle negative. 
+Esempio complesso: Il richiedente non può presentare la documentazione oltre 30 giorni.
+Esempio semplificato: Il richiedente può presentare la documentazione entro 30 giorni. 
+### Regola 6
+Regola: Preferire le frasi esplicite alle frasi implicite. Evitare in particolare le frasi con il verbo al gerundio ma utilizzare l’equivalente frase esplicita.
+Esempio complesso: La domanda è stata respinta, non avendo rispettato i termini di presentazione.
+Esempio semplificato: La domanda è stata respinta poiché non sono stati rispettati i termini di presentazione.
+### Regola 7
+Regola: Evitare l’uso del participio presente con funzione di verbo, utilizzare l’equivalente frase relativa.
+Esempio complesso: la circolare avente per oggetto
+Esempio semplificato: la circolare che ha per oggetto
+### Regola 8
+Regola: Preferire costruzioni sintattiche che richiedono l’indicativo al posto del congiuntivo.
+Esempio complesso: Nel caso in cui si verifichi 
+Esempio semplificato: Se si verifica 
+### Regola 9
+Regola: Preferire l’indicativo presente con valore prescrittivo al posto del costrutto “dovere” + infinito.
+Esempio complesso: Il sindaco deve provvedere alle nomine e alle designazioni di propria competenza.
+Esempio semplificato: Il sindaco provvede alle nomine e alle designazioni di propria competenza.
+### Regola 10
+Regola: Evitare l’uso del futuro deontico (uso del futuro per esprimere un dover essere o un dover fare). Preferire l’equivalente uso del verbo all’indicativo presente con valore prescrittivo.
+Esempio complesso: Il sindaco provvederà alle nomine e alle designazioni di propria competenza.
+Esempio semplificato: Il sindaco provvede alle nomine e alle designazioni di propria competenza.
+### Regola 11
+Regola: Esplicitare i nessi logici tra le frasi con congiunzioni o avverbi testuali.
+Esempio complesso: Il termine per la presentazione delle domande è scaduto. Non sarà possibile accettare ulteriori richieste.
+Esempio semplificato: Il termine per la presentazione delle domande è scaduto. Pertanto, non sarà possibile accettare ulteriori richieste. 
+### Regola 12
+Regola: Preferire congiunzioni subordinanti semplici e d’uso comune a congiunzioni complesse ed auliche.
+Esempio complesso: L’Amministrazione ha disposto il rigetto dell’istanza in considerazione del fatto che la documentazione allegata risultava incompleta.
+Esempio semplificato: L’Amministrazione ha disposto il rigetto dell’istanza perché la documentazione allegata risultava incompleta.
+### Regola 13
+Regola: Preferire preposizioni semplici e d’uso comune a preposizioni complesse ed auliche.
+Esempio complesso: allo scopo di
+Esempio semplificato: per
+### Regola 14
+Regola: Evitare l’uso di formule pleonastiche.
+Esempio complesso: entro e non oltre
+Esempio semplificato: entro
+### Regola 15
+Regola: Assicurare l’uniformità nell’uso dei modi, dei tempi e delle persone del verbo.
+Esempio complesso: L'ente approva la proposta, ha inviato la notifica attendendo la conferma.
+Esempio semplificato: L'ente approva la proposta, invia la notifica e attende la conferma. 
+Regola: Usare quando è possibile la forma attiva del verbo. In assenza di complemento d’agente nella passiva, usare la forma attiva con “si” come soggetto impersonale.
+Esempio complesso 1: La richiesta sarà firmata dal responsabile del procedimento.
+Esempio semplificato 1: Il responsabile del procedimento firmerà la richiesta.
+Esempio complesso 2: Le comunicazioni sono trasmesse agli interessati entro 10 giorni.
+Esempio semplificato 2: Si trasmettono le comunicazioni agli interessati entro 10 giorni. 
+### Regola 16
+Regola: Ripetere in modo esplicito (con nome per intero) gli elementi che sono già stati introdotti o che lo saranno di nuovo più avanti anziché usare pronomi personali e pronomi e aggettivi dimostrativi.
+Esempio complesso: Il richiedente deve presentare la domanda entro il termine previsto. Se non lo rispetta, sarà respinta.
+Esempio semplificato: Il richiedente deve presentare la domanda entro il termine previsto. Se il richiedente non rispetta il termine, la domanda sarà respinta. 
+### Regola 17
+Regola: Evitare frasi o altri elementi tra il soggetto e il verbo, tra l’ausiliare e il verbo.
+Esempio complesso: Il Tribunale, dopo aver valutato attentamente tutti gli elementi del caso, ha emesso la sentenza entro i termini previsti.
+Esempio semplificato: Il Tribunale ha emesso la sentenza entro i termini previsti.
+### Regola 18
+Regola: Evitare, se possibile, gli incisi.
+Esempio complesso: Il Dirigente, preso atto delle osservazioni pervenute, e considerata, altresì, la necessità, già evidenziata nei precedenti incontri, di procedere con urgenza all’attuazione delle misure previste dal piano straordinario, dispone, con effetto immediato, l’avvio delle attività di verifica.
+Esempio semplificato: Il Dirigente dispone l’avvio delle attività di verifica.
+### Regola 19
+Regola: Evitare aggettivi e avverbi superflui. 
+Esempio complesso: Il ricorrente ha tempestivamente inoltrato la propria istanza formale, corredata da tutta la necessaria e completa documentazione pertinente, al fine di ottenere l’immediata e definitiva risoluzione della questione.
+Esempio semplificato: Il ricorrente ha inoltrato l’istanza corredata dalla documentazione necessaria, per ottenere la risoluzione della questione.
+### Regola 20
+Regola: Evitare la doppia negazione.
+Esempio complesso: non si può non esprimere
+Esempio semplificato: si può esprimere
+### Regola 21
+Regola: Evitare di usare il verbo “dovere” per indicare l’obbligatorietà di una disposizione. 
+Esempio complesso: La domanda deve essere presentata entro il termine di 30 giorni dalla notifica del provvedimento.
+Esempio semplificato: La domanda è presentata entro il termine di 30 giorni dalla notifica del provvedimento. 
+### Regola 22
+Regola: Evitare l’enclisi di “-si” (cioè la sua unione in posizione finale alla parola precedente) e sostituire verbi enclitici con equivalenti costruzioni con verbo modale.
+Esempio complesso: possono effettuarsi
+Esempio semplificato: si possono effettuare 
+### Regola 23
+Regola: Nella protasi del periodo ipotetico (la frase che esprime la condizione) preferire la congiunzione “se” ad altre più complesse e di più difficile comprensione (ad es. “qualora”, “nel caso in cui”, “a condizione che”, ecc.).
+Esempio complesso: Qualora l’utente non provveda al pagamento entro i termini stabiliti, l’Amministrazione procederà all’avvio delle procedure sanzionatorie previste dalla normativa vigente.
+Esempio semplificato: Se l’utente non provvede al pagamento entro i termini stabiliti, l’Amministrazione procederà all’avvio delle procedure sanzionatorie previste dalla normativa vigente.
+### Regola 24
+Regola: Evitare la nominalizzazione, che consiste nel preferire il nome al verbo come portatore di significato.
+Esempio complesso: Il pagamento si effettua allo sportello.
+Esempio semplificato: Pagare allo sportello.
+### Regola 25
+Regola: Evitare le perifrasi e preferire equivalenti forme sintetiche.
+Esempio complesso: apporre la firma
+Esempio semplificato: firmare 
+### Regola 26
+Regola: Preferire la forma preposizione+nome agli aggettivi denominali con suffisso derivativo in “-ale”.
+Esempio complesso: occupazionale
+Esempio semplificato: dell’occupazione
+### Regola 27
+Regola: Usare sempre il medesimo termine per esprimere uno stesso concetto; non alternare quindi termini diversi per riferirsi alla stessa cosa.
+Esempio complesso: L’ente territoriale trasmette il documento all’ufficio competente. L’amministrazione locale attende quindi la conferma di ricezione.
+Esempio semplificato: L’ente territoriale trasmette il documento all’ufficio competente. L’ente territoriale attende quindi la conferma di ricezione. 
+### Regola 28
+Regola: Scegliere la parola che esprime un dato concetto nel modo più preciso, chiaro e univoco, usando di preferenza parole dell’italiano comune.
+Esempio complesso: L’esborso economico deve essere effettuato entro 30 giorni dalla ricezione della nota contabile.
+Esempio semplificato: Il pagamento deve essere effettuato entro 30 giorni dalla ricezione della fattura. 
+ ### Regola 29
+Regola: Se per un concetto specifico non esistono parole dell’italiano comune caratterizzate da precisione, chiarezza e univocità, ricorrere a termini giuridici o tecnici, a neologismi o forestierismi, purché corredati da una spiegazione.
+Esempio complesso: Il sinallagma è una condizione fondamentale per la stipula dell’accordo.
+Esempio semplificato: Il sinallagma (cioè l’obbligazione reciproca che in un contratto vincola entrambe le parti a prestazioni corrispettive) è una condizione fondamentale per la stipula dell’accordo.
+### Regola 30
+Regola: Se un tecnicismo giuridico ha un significato diverso da quello che ha nel linguaggio corrente è opportuno farlo seguire da una definizione e fare in modo che il contesto renda evidente l’accezione specifica del termine.
+Esempio complesso: L'attore ha proposto ricorso presso il TAR per l'annullamento del provvedimento, ritenendo che l'amministrazione abbia agito in violazione di legge.
+Esempio semplificato: L'attore (cioè colui che ha avviato il procedimento legale) ha proposto ricorso presso il TAR per l'annullamento del provvedimento, ritenendo che l'amministrazione abbia agito in violazione di legge.
+### Regola 31
+Regola: Limitare l’uso di arcaismi e latinismi.
+Esempio complesso: L’istante, che ha testé presentato istanza alla competente Direzione, dichiara di non avere alcuno interesse personale nella vicenda in oggetto, nonché di agire all’uopo onde ottenere un provvedimento ostensibile de iure.
+Esempio semplificato: L’istante, che ha recentemente presentato la richiesta all’ufficio competente, dichiara di non avere nessun interesse personale nella vicenda e di agire per ottenere un provvedimento accessibile secondo la legge.
+### Regola 32
+Regola: Usare neologismi se il loro significato è chiaro e univoco; altrimenti corredarli di una definizione.
+Esempio complesso: Nell’ambito del processo di dematerializzazione dei documenti cartacei, l’amministrazione ha adottato una nuova piattaforma di cooperazione aumentata.
+Esempio semplificato: Nell’ambito del processo di dematerializzazione dei documenti cartacei, l’amministrazione ha adottato una nuova piattaforma di cooperazione aumentata (cioè un ambiente digitale che consente agli uffici di condividere in tempo reale dati, atti e decisioni operative).
+### Regola 33
+Regola: Preferire parole dell’italiano, se disponibili, all’uso di parole straniere.
+Esempio complesso: Il project manager sarà responsabile del coordinamento delle attività e della redazione del planning operativo relativo all'attuazione del programma triennale.
+Esempio semplificato: Il responsabile di progetto sarà incaricato del coordinamento delle attività e della redazione del piano operativo relativo all'attuazione del programma triennale.
+### Regola 34
+Regola: In mancanza di un termine italiano corrispondente, usare parole straniere e se necessario farle seguire da una perifrasi esplicativa.
+Esempio complesso: L’ente ha avviato una procedura di leasing per l’acquisizione di automezzi destinati ai servizi operativi.
+Esempio semplificato: L’ente ha avviato una procedura di leasing (cioè una forma di locazione finanziaria con diritto di riscatto) per l’acquisizione di automezzi destinati ai servizi operativi.
+### Regola 35
+Regola: Far precedere un’abbreviazione o una sigla dall’espressione per intero e racchiuderla tra parentesi tonde quando usata per la prima volta; nelle citazioni successive riportare solo la sigla o l’abbreviazione. Fanno eccezione abbreviazioni e sigle d’uso consolidato e molto note.
+Esempio complesso: Il RUP, in collaborazione con la SUA, provvederà alla gestione delle procedure di gara. Il RUP assicurerà il rispetto delle normative previste dalla PA.
+Esempio semplificato: Il RUP (Responsabile Unico del Procedimento), in collaborazione con la SUA (Stazione Unica Appaltante), provvederà alla gestione delle procedure di gara. Il RUP assicurerà il rispetto delle normative previste dalla PA.
