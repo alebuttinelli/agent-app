@@ -23,7 +23,7 @@ def get_agent_executor():
         st.stop() # Stop execution if the key is missing
 
     # LLM Initialization
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash",
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",
                                  google_api_key=GOOGLE_API_KEY,
                                  temperature=0.1,
                                  max_output_tokens=4000,
